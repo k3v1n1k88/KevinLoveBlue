@@ -1,0 +1,7 @@
+2018-05-30 18:32:20 ERROR ServerLogTestHandler:76 - Cannot open tranpost
+2018-05-30 18:32:42 DEBUG ServerLogTestHandler Init:43 - 06:32:32:
+Catch init:
+PlayerID: 1
+Status: Login
+Current Item: BUA
+2018-05-30 18:32:50 INFO  ServerLogTestHandler ChangeItem:98 - 06:32:32:Success change item toSUNG
